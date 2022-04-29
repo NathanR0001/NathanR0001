@@ -2,7 +2,7 @@
 - 👀 I’m interested in Admin sys and Networks
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate with ShieldCore
-- 📫 How to reach me : with discord !
+- 📫 Contact me on discord !
 
 <!---
 NathanR0001/NathanR0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
