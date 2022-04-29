@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanR0001
-- 👀 I’m interested in Admin sys and Networks
+- 👀 I would like to be a system and network administrator
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate with ShieldCore
 - 📫 Contact me on discord !
